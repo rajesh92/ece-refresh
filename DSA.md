@@ -10,7 +10,7 @@ Basics:
   * Linear Search:
   * Binary Search:
   * Breadth First Search (for trees and graphs):
-  * Depth First Search (for trees and graphs): 
+  * Depth First Search (for trees and graphs):
   <br/><br/>
 * Sort: \[ [YouTube playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) *~2 hrs* ]
   * Selection Sort:
@@ -41,10 +41,17 @@ Introduction to Data Structures \[ [YouTube playlist](https://www.youtube.com/pl
   * Find nth element from the end:
     - Trick: Use two pointers - front & back. Increment front pointer by n and then keep incrementing both pointers together till front pointer reaches null. At this point the location the back pointer points to is the nth element.
     - [Code] TODO
-  * Find if there is a loop in linked list:
-    - Trick: Use two pointers - fast and slow. Increment fast pointer by 2 and slow pointer by 1 and if the two pointers meet then there exists a loop in the linked list.
-    - [Code] TODO
-  *
+  * **Popular questions**
+    1. Reversing a linked list
+    2. Find if there is loop in linked list
+        - Trick: Use two pointers - fast and slow. Increment fast pointer by 2 and slow pointer by 1 and if the two pointers meet then there exists a loop in the linked list.
+        - [Code] TODO
+    3. Insert, Delete, Search a node in the list
+        - Edge case: element can be at the beginning or end
+    4. Find nth element from the end:
+        - Trick: Use two pointers - front & back. Increment front pointer by n and then keep incrementing both pointers together till front pointer reaches null. At this point the location the back pointer points to is the nth element.
+        - [Code] TODO
+
 * Stack: Stack is a LIFO data structure. The item which is pushed first into the stack gets popped in the end.
   * (*Operations*) Push
   * (*Operations*) Pop
