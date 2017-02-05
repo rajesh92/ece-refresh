@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\ralwa\documents\visual studio 2015\projects\allaboutshapes\main\circle.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Triangle.cpp
+  main.vcxproj -> c:\users\ralwa\documents\visual studio 2015\Projects\AllAboutShapes\Debug\main.exe
+  main.vcxproj -> c:\users\ralwa\documents\visual studio 2015\Projects\AllAboutShapes\Debug\main.pdb (Full PDB)
