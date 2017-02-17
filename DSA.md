@@ -31,10 +31,10 @@ Advanced Topics:
 
 ### Data Structures:
 Introduction to Data Structures \[ [YouTube playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) _40 videos * ~13 mins each_ ]
-* Arrays:
+* #### Arrays:
   * (*Operations*) Insertion
   * (*Operations*) Deletion
-* Linked Lists:
+* #### Linked Lists:
   * (*Operations*) Insertion:
   * (*Operations*) Deletion:
   * Linked List vs Arrays:

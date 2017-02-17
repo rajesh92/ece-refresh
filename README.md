@@ -1,5 +1,5 @@
 # ece-refresh
-A compilation of common ECE interview questions
+A compilation of basic ECE questions, to be used as a refresher.
 
 Most of the explanations which you find here would be in C/C++.
 
@@ -11,7 +11,7 @@ Topics:
 * [Computer Networks](https://github.com/rajesh92/ece-refresh/blob/master/CN.md)
 * FAQ
 
-Technical interviews follow Murphy's Law. Anything that can go wrong, will go wrong. So, hope for the best and prepare for the worst!
+Always do your best! What you plant now, you will harvest later. <br/>
 <br/> **Good luck!**
 
 __TODO: ADD ANSWERS TO THE QUESTIONS; AND ALSO ADD MORE QUESTIONS__ <br/><br/>
