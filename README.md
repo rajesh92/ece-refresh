@@ -9,6 +9,8 @@ Topics:
 * [Data Structures and Algorithms](https://github.com/rajesh92/ece-refresh/blob/master/DSA.md)
 * Computer Architecture
 * [Computer Networks](https://github.com/rajesh92/ece-refresh/blob/master/CN.md)
+* [System Design] (https://github.com/donnemartin/system-design-primer)
+* [Notes on Virtualization]
 * FAQ
 
 Always do your best! What you plant now, you will harvest later. <br/>

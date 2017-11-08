@@ -52,20 +52,23 @@ Introduction to Data Structures \[ [YouTube playlist](https://www.youtube.com/pl
         - Trick: Use two pointers - front & back. Increment front pointer by n and then keep incrementing both pointers together till front pointer reaches null. At this point the location the back pointer points to is the nth element.
         - [Code] TODO
 
-* Stack: Stack is a LIFO data structure. The item which is pushed first into the stack gets popped in the end.
+* #### String:
+
+* #### Stack:
+Stack is a LIFO data structure. The item which is pushed first into the stack gets popped in the end.
   * (*Operations*) Push
   * (*Operations*) Pop
   * (*Operations*) Top
   * (*Operations*) empty:
-  *
-* Queue:
+
+* #### Queue:
   * Priority Queue:
-* Trees:
+* #### Heap:
+* #### Hash table:
+* #### Trees:
   * Binary Tree:
   * Binary Search Tree:
   * (Advanced) AVL Tree:
   * (Advanced) Red Black Tree:
   * (Advanced) B Tree:
-* Heap:
-* Hash table:
-* Graphs:
+* #### Graphs:
